@@ -1,7 +1,7 @@
 # Java_Core_Lesson_15
 Map
 
-* [Завдання 1](https://github.com/ValeriiJavalesson/Java_Core_Lesson_14/tree/master/Task_1)<br>
+* [Завдання 1](https://github.com/ValeriiJavalesson/Java_Core_Lesson_15/tree/master/src/Task_1)<br>
 
 Створити клас Зооклуб , як поле прописати в ньому Map. Створити клас Person , який описати двома полями : імя , вік. Створити клас Animal , який описати двома полями : тип тваринки (кіт, пес), імя тваринки. В класі Зооклуб як поле прописати наступне:
 
